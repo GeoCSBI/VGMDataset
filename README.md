@@ -54,6 +54,11 @@ capture session are stored in a camera_params.json.
 }
 ```
 
+<li>(fx, fy): Focal length of the camera in pixels</li>
+<li>(ppx, ppy): Principal point of the camera</li>
+<li>(image_width, image_height): Image dimensions</li>
+<li>camera_height: The height the camera was placed in meters</li>
+
 <h2>Citation</h2>
 This dataset is part of "Virtual Grid Mapping for Visual Size Measurements". Please cite the following work:
 
