@@ -3,7 +3,7 @@
 Dataset containing images of objects of various sizes for benchmarking optical size measurement methodologies
 
 <h2>Dataset Details</h2>
-The dataset comprises **221 RGB images** of **9** different parallelepiped objects of different dimensions. The
+The dataset comprises 221 RGB images of 9 different parallelepiped objects of different dimensions. The
 dimensions of
 each object is stated at the name of the images and the folders that are contained in the form of [width x height].
 
