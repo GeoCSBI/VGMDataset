@@ -57,6 +57,8 @@ capture session are stored in a camera_params.json.
 <h2>Citation</h2>
 This dataset is part of "Virtual Grid Mapping for Visual Size Measurements". Please cite the following work:
 
+<br>
+
 ```
 //Paper citation to be added here when published//
 ```
