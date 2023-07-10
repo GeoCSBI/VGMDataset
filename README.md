@@ -65,7 +65,13 @@ This dataset is part of "Virtual Grid Mapping for Visual Size Measurements". Ple
 <br>
 
 ```
-//Paper citation to be added here when published//
+@article{dimas2023virtual,
+  title={Virtual Grid Mapping for Visual Size Measurements},
+  author={Dimas, George and Iakovidis, Dimitris K},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
 <br>
